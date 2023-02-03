@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\bin\Debug\4_Virtual-League_Aufstellung_der_Spieler.exe.config
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\bin\Debug\4_Virtual-League_Aufstellung_der_Spieler.exe
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\bin\Debug\4_Virtual-League_Aufstellung_der_Spieler.pdb
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\obj\Debug\4_Virtual-League_Aufstellung_der_Spieler.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\obj\Debug\4_Virtual-League_Aufstellung_der_Spieler.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\obj\Debug\4_Virtual-League_Aufstellung_der_Spieler.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\obj\Debug\4_Virtual-League_Aufstellung_der_Spieler.exe
+C:\Users\admin\source\repos\4_Virtual-League_Aufstellung_der_Spieler\4_Virtual-League_Aufstellung_der_Spieler\obj\Debug\4_Virtual-League_Aufstellung_der_Spieler.pdb
