@@ -62,7 +62,7 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
             spielerStaerke = random.Next() % 9 + 1;          // Random-Spielerstaerke im Bereich 1-9
         }
 
-        public string getFunction()            // Methoda, diese Methode gibt Art des Spielers zurück
+        public virtual string getFunction()            // Methoda, diese Methode gibt Art des Spielers zurück
         {
             throw new NotImplementedException(nameof(getFunction));    // Ausnahme
         }
@@ -86,7 +86,7 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
             Rolle = PlayerRolle.Torwart;
         }
 
-        public new string getFunction()     // diese Methode überschreibt die getFunction-Methode der Player-Klasse,
+        public override string getFunction()     // diese Methode überschreibt die getFunction-Methode der Player-Klasse,
         {                                   // weil es vom gleichen Typ ist und die gleichen Argumente verwendet
             return Rolle.ToString();    
         }                                    
@@ -99,7 +99,7 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
             Rolle = PlayerRolle.Abwehrspieler;
         }
 
-        public new string getFunction()     
+        public override string getFunction()     
         {                                   
             return Rolle.ToString();
         }
@@ -112,7 +112,7 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
             Rolle = PlayerRolle.Mittelfeldspieler;
         }
 
-        public new string getFunction()     
+        public override string getFunction()     
         {                                   
             return Rolle.ToString();
         }
@@ -125,7 +125,7 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
             Rolle = PlayerRolle.Stuermer;
         }
 
-        public new string getFunction()     
+        public override string getFunction()     
         {                                   
             return Rolle.ToString();
         }
@@ -203,3 +203,17 @@ namespace _4_Virtual_League_Aufstellung_der_Spieler
         }
     }
 }
+
+/*
+Folgende Fragen sind zu beantworten:
+Was wird zurück gegeben, bei
+a) Spieler spieler1 = new Spieler();
+spieler1.getFunction(); ?
+
+b) Torwart torwart = new Torwart();
+torwart.getFunction(); ?
+
+c) Spieler spieler2 = new Mittelfeldspieler();
+spieler2.getFunction(); ?
+
+*/
