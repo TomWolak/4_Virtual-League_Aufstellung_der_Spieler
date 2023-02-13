@@ -209,11 +209,16 @@ Folgende Fragen sind zu beantworten:
 Was wird zurück gegeben, bei
 a) Spieler spieler1 = new Spieler();
 spieler1.getFunction(); ?
+Antwort: throw new NotImplementedException(nameof(getFunction)); 
+
 
 b) Torwart torwart = new Torwart();
 torwart.getFunction(); ?
+Antwort: string = "Torwart"
+
 
 c) Spieler spieler2 = new Mittelfeldspieler();
 spieler2.getFunction(); ?
+Antwort: string = "Mittelfeldspieler"
 
 */
